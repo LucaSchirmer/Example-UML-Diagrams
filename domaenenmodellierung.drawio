@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.8.6">
   <diagram name="Seite-1" id="FMSf7UJW9cwmT74hhUw4">
-    <mxGraphModel dx="1062" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-31" value="Arzt" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="400" width="180" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="S2zdr7MEVoiVx0vIaLEo-46" value="&lt;div align=&quot;left&quot;&gt;&amp;nbsp; pageNummer&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="S2zdr7MEVoiVx0vIaLEo-31">
+        <mxCell id="S2zdr7MEVoiVx0vIaLEo-46" value="&lt;div align=&quot;left&quot;&gt;&amp;nbsp; pagerNummer&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="S2zdr7MEVoiVx0vIaLEo-31">
           <mxGeometry y="26" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="S2zdr7MEVoiVx0vIaLEo-31">
@@ -53,13 +53,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="731" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="727" y="572" />
-              <mxPoint x="727" y="369" />
+              <mxPoint x="425" y="572" />
+              <mxPoint x="740" y="572" />
+              <mxPoint x="740" y="369" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-35" value="Oberarzt" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="540" width="180" height="64" as="geometry" />
+          <mxGeometry x="245" y="570" width="180" height="64" as="geometry" />
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-36" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="S2zdr7MEVoiVx0vIaLEo-35">
           <mxGeometry y="26" width="180" height="38" as="geometry" />
@@ -136,13 +137,13 @@
           <mxGeometry x="601" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-61" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="730" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-62" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="411" y="574" width="60" height="30" as="geometry" />
+          <mxGeometry x="411" y="604" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S2zdr7MEVoiVx0vIaLEo-63" value="leitung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="S2zdr7MEVoiVx0vIaLEo-63" value="Abteilungs-Leitung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="S2zdr7MEVoiVx0vIaLEo-46" target="S2zdr7MEVoiVx0vIaLEo-40">
           <mxGeometry relative="1" as="geometry">
@@ -151,7 +152,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S2zdr7MEVoiVx0vIaLEo-65" value="angestellt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="S2zdr7MEVoiVx0vIaLEo-65" value="Abteilungs-Ärzte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="591" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-66" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -165,8 +166,8 @@
             <mxPoint x="291.00497512437806" y="386" as="sourcePoint" />
             <mxPoint x="471" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="301" y="276" />
-              <mxPoint x="301" y="340" />
+              <mxPoint x="290" y="276" />
+              <mxPoint x="290" y="340" />
               <mxPoint x="381" y="340" />
             </Array>
           </mxGeometry>
@@ -177,8 +178,8 @@
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-71" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="211" y="277" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S2zdr7MEVoiVx0vIaLEo-72" value="behandlung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="311" y="307" width="60" height="30" as="geometry" />
+        <mxCell id="S2zdr7MEVoiVx0vIaLEo-72" value="Krankenhaus-Patiente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-74" value="&lt;div&gt;1..4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="361" y="74" width="60" height="30" as="geometry" />
@@ -186,17 +187,17 @@
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-75" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="256" y="74" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S2zdr7MEVoiVx0vIaLEo-77" value="verschrieben" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="271" y="40" width="60" height="30" as="geometry" />
+        <mxCell id="S2zdr7MEVoiVx0vIaLEo-77" value="Medikamente-in-Rezept" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271" y="40" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-82" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="31" y="104" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S2zdr7MEVoiVx0vIaLEo-85" value="erstellt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="211" y="480" width="60" height="40" as="geometry" />
+        <mxCell id="S2zdr7MEVoiVx0vIaLEo-85" value="Arzt-ausgestellt-Rezepte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="494" width="60" height="43" as="geometry" />
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-86" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="181" y="485" width="60" height="30" as="geometry" />
+          <mxGeometry x="181" y="499" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-89" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="104" width="60" height="30" as="geometry" />
@@ -204,10 +205,10 @@
         <mxCell id="S2zdr7MEVoiVx0vIaLEo-90" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S2zdr7MEVoiVx0vIaLEo-91" value="besitzt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="S2zdr7MEVoiVx0vIaLEo-91" value="Patiente-Rezepte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="141" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S2zdr7MEVoiVx0vIaLEo-95" value="krankhaus-abteilungen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="S2zdr7MEVoiVx0vIaLEo-95" value="Krankhaus-Abteilungen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="277" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
